@@ -1,5 +1,9 @@
-<p align="center"><img alt="ADOFAI.gg Logo" src="https://raw.githubusercontent.com/ADOFAI-gg/Adofai-gg-assets/main/images/logo.svg#gh-dark-mode-only"></p>
-<p align="center"><img alt="ADOFAI.gg Logo" src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/289427/unknown.png#gh-light-mode-only" width="700"></p>
+<p align="center">
+  <img alt="ADOFAI.gg Logo" src="https://raw.githubusercontent.com/ADOFAI-gg/Adofai-gg-assets/main/images/logo.svg#gh-dark-mode-only">
+  <img alt="ADOFAI.gg Logo" src="https://raw.githubusercontent.com/ADOFAI-gg/Adofai-gg-assets/main/images/logo-dark.svg#gh-light-mode-only" width="700">
+</p>
+
+
 
 # <img src="https://adofai.gg/favicon.png" alt="ADOFAI.gg favicon" width="28" heihgt="28"> Hi, you! Care to read me?
 
