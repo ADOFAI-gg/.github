@@ -1,9 +1,7 @@
-<h4 align="center">
-<a href="https://adofai.gg">
+<p align="center">
   <img alt="ADOFAI.gg Logo" src="https://raw.githubusercontent.com/ADOFAI-gg/Adofai-gg-assets/main/images/logo.svg#gh-dark-mode-only">
   <img alt="ADOFAI.gg Logo" src="https://raw.githubusercontent.com/ADOFAI-gg/Adofai-gg-assets/main/images/logo-dark.svg#gh-light-mode-only" width="700">
-</a>
-</h4>
+</p>
 
 <h1 align="center">
 <img src="https://adofai.gg/favicon.png" alt="ADOFAI.gg favicon" width="24" height="24"> Hi, you! Care to read me?
