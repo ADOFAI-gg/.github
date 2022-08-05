@@ -1,5 +1,5 @@
 <h4 align="center">
-<a>
+<a href="https://adofai.gg">
   <img alt="ADOFAI.gg Logo" src="https://raw.githubusercontent.com/ADOFAI-gg/Adofai-gg-assets/main/images/logo.svg#gh-dark-mode-only">
   <img alt="ADOFAI.gg Logo" src="https://raw.githubusercontent.com/ADOFAI-gg/Adofai-gg-assets/main/images/logo-dark.svg#gh-light-mode-only" width="700">
 </a>
