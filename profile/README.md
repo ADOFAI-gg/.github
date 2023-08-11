@@ -7,10 +7,12 @@
 <img src="https://adofai.gg/favicon.png" alt="ADOFAI.gg favicon" width="24" height="24"> Hi, you! Care to read me?
 </h1>
 
-### ✨ Who are we?
+### ✨ What is ADOFAI.gg?
 
-We own the website [ADOFAI.gg](https://adofai.gg) and our [Community Discord](https://discord.gg/TKdpbUUfUa)!
-
-We're the ones who **push and help the modding scene** of the game [A Dance of Fire and Ice](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice)!
+We own the website [ADOFAI.gg](https://adofai.gg) and our [Community Discord](https://discord.gg/TKdpbUUfUa). We work on the projects related to the game [A Dance of Fire and Ice](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice).
 
 We are a **non-profit, 100% community driven project** with an ambitious goal of making our community the better place for everyone.
+
+### 💻 Join Our Team!
+
+We're taking recruitments. [Apply here.](https://forms.gle/8dW6rNQ6Ar9dqSd8A)
