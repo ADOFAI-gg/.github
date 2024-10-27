@@ -15,4 +15,4 @@ We are a **non-profit, 100% community driven project** with an ambitious goal of
 
 ### 💻 Join Our Team!
 
-We're taking recruitments. [Apply here.](https://forms.gle/8dW6rNQ6Ar9dqSd8A)
+We're taking recruitments. [Apply here.](https://afg.ink/join)
